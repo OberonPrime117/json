@@ -1,16 +1,58 @@
 {
   "menu_items": [
     {
-      "id": 877,
-      "short_name": "A1",
-      "name": "Hand Armitage Tattoo",
+      "id":800,
+      "short_name":"A1",
+      "name":"A1",
       "price": 2.55
-    },
-    {
-        "id": 878,
-        "short_name": "A2",
-        "name": "Hand Story Tattoo",
-        "price": 2.55
-    }
+   },
+   {
+      "id":82,
+      "short_name":"A2",
+      "name":"A2",
+     "price": 2.55
+   },
+   {
+      "id":83,
+      "short_name":"A3",
+      "name":"A3",
+     "price": 2.55
+   },
+   {
+      "id":84,
+      "short_name":"A4",
+      "name":"A4",
+     "price": 2.55
+   },
+   {
+      "id":85,
+      "short_name":"A5",
+      "name":"A5",
+     "price": 2.55
+   },
+   {
+      "id":86,
+      "short_name":"A6",
+      "name":"A6",
+     "price": 2.55
+   },
+   {
+      "id":87,
+      "short_name":"B1",
+      "name":"B1",
+     "price": 2.55
+   },
+   {
+      "id":88,
+      "short_name":"C1",
+      "name":"C1",
+     "price": 2.55
+   },
+   {
+      "id":89,
+      "short_name":"C2",
+      "name":"C2",
+      "price": 2.55
+   }
   ]
 }
