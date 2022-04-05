@@ -1,0 +1,12 @@
+{
+    "menu_items": [
+     {
+        "id":83,
+        "short_name":"A3",
+        "name":"A3",
+       "category_name":"A3",
+       "category_items":"1",
+       "price": 2.55
+     }
+    ]
+  }

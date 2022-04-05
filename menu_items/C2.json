@@ -1,0 +1,12 @@
+{
+    "menu_items": [
+     {
+        "id":89,
+        "short_name":"C2",
+        "name":"C2",
+       "category_name":"C2",
+       "category_items":"1",
+        "price": 2.55
+     }
+    ]
+  }

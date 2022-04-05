@@ -1,0 +1,20 @@
+{
+    "menu_items": [
+      {
+        "id":800,
+        "short_name":"A1",
+        "name":"A1",
+        "category_name":"A1",
+        "category_items":"2",
+        "price": 2.55
+     },
+      {
+        "id":801,
+        "short_name":"A11",
+        "name":"A11",
+        "category_name":"A1",
+        "category_items":"2",
+        "price": 2.55
+     }
+    ]
+  }

@@ -1,0 +1,12 @@
+{
+    "menu_items": [
+     {
+        "id":82,
+        "short_name":"A2",
+        "name":"A2",
+       "category_name":"A2",
+       "category_items":"1",
+       "price": 2.55
+     }
+    ]
+  }

@@ -1,0 +1,12 @@
+{
+    "menu_items": [
+     {
+        "id":86,
+        "short_name":"A6",
+        "name":"A6",
+       "category_name":"A6",
+       "category_items":"1",
+       "price": 2.55
+     }
+    ]
+  }
