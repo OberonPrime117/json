@@ -6,6 +6,12 @@
       "name":"A1",
       "price": 2.55
    },
+    {
+      "id":801,
+      "short_name":"A11",
+      "name":"A11",
+      "price": 2.55
+   },
    {
       "id":82,
       "short_name":"A2",
