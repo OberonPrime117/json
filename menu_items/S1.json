@@ -1,26 +1,26 @@
 {
     "menu_items": [
       {
-        "id": 820,
-        "short_name": "A2",
-        "name": "A2",
-        "category_name": "A2",
+        "id": 310,
+        "short_name": "S1",
+        "name": "S1",
+        "category_name": "S1",
         "category_items": "3",
         "price": 2.55
       },
       {
-        "id": 821,
-        "short_name": "A21",
-        "name": "A21",
-        "category_name": "A2",
+        "id": 311,
+        "short_name": "S11",
+        "name": "S11",
+        "category_name": "S1",
         "category_items": "3",
         "price": 2.55
       },
       {
-        "id": 822,
-        "short_name": "A22",
-        "name": "A22",
-        "category_name": "A2",
+        "id": 312,
+        "short_name": "S12",
+        "name": "S12",
+        "category_name": "S1",
         "category_items": "3",
         "price": 2.55
       }
