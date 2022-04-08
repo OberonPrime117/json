@@ -1,28 +1,68 @@
 {
-    "menu_items": [
-      {
-        "id": 820,
-        "short_name": "A2",
-        "name": "A2",
-        "category_name": "A2",
-        "category_items": "3",
-        "price": 2.55
-      },
-      {
-        "id": 821,
-        "short_name": "A21",
-        "name": "A21",
-        "category_name": "A2",
-        "category_items": "3",
-        "price": 2.55
-      },
-      {
-        "id": 822,
-        "short_name": "A22",
-        "name": "A22",
-        "category_name": "A2",
-        "category_items": "3",
-        "price": 2.55
-      }
-    ]
-  }
+  "menu_items": [
+    {
+      "id": 530,
+      "short_name": "M2",
+      "name": "M2",
+      "category_name": "M2",
+      "category_items": "8",
+      "price": 2.55
+    },
+    {
+      "id": 531,
+      "short_name": "M21",
+      "name": "M21",
+      "category_name": "M2",
+      "category_items": "8",
+      "price": 2.55
+    },
+    {
+      "id": 532,
+      "short_name": "M22",
+      "name": "M22",
+      "category_name": "M2",
+      "category_items": "8",
+      "price": 2.55
+    },
+    {
+      "id": 533,
+      "short_name": "M23",
+      "name": "M23",
+      "category_name": "M2",
+      "category_items": "8",
+      "price": 2.55
+    },
+    {
+      "id": 534,
+      "short_name": "M24",
+      "name": "M24",
+      "category_name": "M2",
+      "category_items": "8",
+      "price": 2.55
+    },
+    {
+      "id": 535,
+      "short_name": "M25",
+      "name": "M25",
+      "category_name": "M2",
+      "category_items": "8",
+      "price": 2.55
+    },
+    {
+      "id": 536,
+      "short_name": "M26",
+      "name": "M26",
+      "category_name": "M2",
+      "category_items": "8",
+      "price": 2.55
+    },
+    {
+      "id": 537,
+      "short_name": "M27",
+      "name": "M27",
+      "category_name": "M2",
+      "category_items": "8",
+      "price": 2.55
+    }
+  ]
+}
