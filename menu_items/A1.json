@@ -1,20 +1,68 @@
 {
-    "menu_items": [
-      {
-        "id":800,
-        "short_name":"A1",
-        "name":"A1",
-        "category_name":"A1",
-        "category_items":"2",
-        "price": 2.55
-     },
-      {
-        "id":801,
-        "short_name":"A11",
-        "name":"A11",
-        "category_name":"A1",
-        "category_items":"2",
-        "price": 2.55
-     }
-    ]
-  }
+  "menu_items": [
+    {
+      "id": 800,
+      "short_name": "A1",
+      "name": "A1",
+      "category_name": "A1",
+      "category_items": "8",
+      "price": 2.55
+    },
+    {
+      "id": 801,
+      "short_name": "A11",
+      "name": "A11",
+      "category_name": "A1",
+      "category_items": "8",
+      "price": 2.55
+    },
+    {
+      "id": 801,
+      "short_name": "A12",
+      "name": "A11",
+      "category_name": "A1",
+      "category_items": "8",
+      "price": 2.55
+    },
+    {
+      "id": 801,
+      "short_name": "A13",
+      "name": "A11",
+      "category_name": "A1",
+      "category_items": "8",
+      "price": 2.55
+    },
+    {
+      "id": 801,
+      "short_name": "A14",
+      "name": "A11",
+      "category_name": "A1",
+      "category_items": "8",
+      "price": 2.55
+    },
+    {
+      "id": 801,
+      "short_name": "A15",
+      "name": "A11",
+      "category_name": "A1",
+      "category_items": "8",
+      "price": 2.55
+    },
+    {
+      "id": 801,
+      "short_name": "A16",
+      "name": "A11",
+      "category_name": "A1",
+      "category_items": "8",
+      "price": 2.55
+    },
+    {
+      "id": 801,
+      "short_name": "A17",
+      "name": "A11",
+      "category_name": "A1",
+      "category_items": "8",
+      "price": 2.55
+    }
+  ]
+}
