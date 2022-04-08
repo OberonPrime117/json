@@ -1,12 +1,28 @@
 {
-    "menu_items": [
-     {
-        "id":82,
-        "short_name":"A2",
-        "name":"A2",
-       "category_name":"A2",
-       "category_items":"1",
-       "price": 2.55
-     }
-    ]
-  }
+  "menu_items": [
+    {
+      "id": 820,
+      "short_name": "A2",
+      "name": "A2",
+      "category_name": "A2",
+      "category_items": "3",
+      "price": 2.55
+    },
+    {
+      "id": 821,
+      "short_name": "A21",
+      "name": "A21",
+      "category_name": "A2",
+      "category_items": "3",
+      "price": 2.55
+    },
+    {
+      "id": 822,
+      "short_name": "A22",
+      "name": "A22",
+      "category_name": "A2",
+      "category_items": "3",
+      "price": 2.55
+    }
+  ]
+}
