@@ -2,46 +2,46 @@
    {
       "id":81,
       "short_name":"A1",
-      "name":"A1"
+      "name":"Animal"
    },
    {
       "id":82,
       "short_name":"A2",
-      "name":"A2"
+      "name":"Armband"
    },
    {
       "id":83,
-      "short_name":"A3",
-      "name":"A3"
+      "short_name":"C1",
+      "name":"Colour"
    },
    {
       "id":84,
-      "short_name":"A4",
-      "name":"A4"
+      "short_name":"C2",
+      "name":"Couple"
    },
    {
       "id":85,
-      "short_name":"A5",
-      "name":"A5"
+      "short_name":"G1",
+      "name":"Geometric"
    },
    {
       "id":86,
-      "short_name":"A6",
-      "name":"A6"
+      "short_name":"M1",
+      "name":"Mandala"
    },
    {
       "id":87,
-      "short_name":"B1",
-      "name":"B1"
+      "short_name":"M2",
+      "name":"Minimal"
    },
    {
       "id":88,
-      "short_name":"C1",
-      "name":"C1"
+      "short_name":"R1",
+      "name":"Religious"
    },
    {
       "id":89,
-      "short_name":"C2",
-      "name":"C2"
+      "short_name":"S1",
+      "name":"Sleeve"
    }
 ]
