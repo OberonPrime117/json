@@ -1,14 +1,6 @@
 {
   "menu_items": [
     {
-      "id": 610,
-      "short_name": "G1",
-      "name": "G1",
-      "category_name": "G1",
-      "category_items": "24",
-      "price": 2.55
-    },
-    {
       "id": 611,
       "short_name": "G11",
       "name": "G11",
