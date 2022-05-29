@@ -1,0 +1,59 @@
+{
+    "menu_items": [
+      {
+        "id": 611,
+        "short_name": "C11",
+        "name": "C11",
+        "category_name": "C1"
+      },
+      {
+        "id": 612,
+        "short_name": "C12",
+        "name": "C12",
+        "category_name": "C1"
+      },
+      {
+        "id": 613,
+        "short_name": "C13",
+        "name": "C13",
+        "category_name": "C1"
+      },
+      {
+        "id": 614,
+        "short_name": "C14",
+        "name": "C14",
+        "category_name": "C1"
+      },
+      {
+        "id": 615,
+        "short_name": "C15",
+        "name": "C15",
+        "category_name": "C1"
+      },
+      {
+        "id": 616,
+        "short_name": "C16",
+        "name": "C16",
+        "category_name": "C1"
+      },
+      {
+        "id": 617,
+        "short_name": "C17",
+        "name": "C17",
+        "category_name": "C1"
+      },
+      {
+        "id": 618,
+        "short_name": "C18",
+        "name": "C18",
+        "category_name": "C1"
+      },
+      {
+        "id": 619,
+        "short_name": "C19",
+        "name": "C19",
+        "category_name": "C1"
+      }
+    ]
+  }
+  

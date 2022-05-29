@@ -1,0 +1,17 @@
+{
+    "menu_items": [
+      {
+        "id": 511,
+        "short_name": "D11",
+        "name": "D11",
+        "category_name": "D1"
+      },
+      {
+        "id": 512,
+        "short_name": "D12",
+        "name": "D12",
+        "category_name": "D1"
+      }
+    ]
+}
+  
