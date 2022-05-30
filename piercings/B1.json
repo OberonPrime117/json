@@ -4,55 +4,73 @@
         "id": 711,
         "short_name": "B11",
         "name": "B11",
-        "category_name": "B1"
+        "category_name": "B1",
+        "category_items": "3",
+        "price": 2.55
       },
       {
         "id": 712,
         "short_name": "B12",
         "name": "B12",
-        "category_name": "B1"
+        "category_name": "B1",
+        "category_items": "3",
+        "price": 2.55
       },
       {
         "id": 713,
         "short_name": "B13",
         "name": "B13",
-        "category_name": "B1"
+        "category_name": "B1",
+        "category_items": "3",
+        "price": 2.55
       },
       {
         "id": 714,
         "short_name": "B14",
         "name": "B14",
-        "category_name": "B1"
+        "category_name": "B1",
+        "category_items": "3",
+        "price": 2.55
       },
       {
         "id": 715,
         "short_name": "B15",
         "name": "B15",
-        "category_name": "B1"
+        "category_name": "B1",
+        "category_items": "3",
+        "price": 2.55
       },
       {
         "id": 716,
         "short_name": "B16",
         "name": "B16",
-        "category_name": "B1"
+        "category_name": "B1",
+        "category_items": "3",
+        "price": 2.55
       },
       {
         "id": 717,
         "short_name": "B17",
         "name": "B17",
-        "category_name": "B1"
+        "category_name": "B1",
+        "category_items": "3",
+        "price": 2.55
       },
       {
         "id": 718,
         "short_name": "B18",
         "name": "B18",
-        "category_name": "B1"
+        "category_name": "B1",
+        "category_items": "3",
+        "price": 2.55
       },
       {
         "id": 719,
         "short_name": "B19",
         "name": "B19",
-        "category_name": "B1"
+        "category_name": "B1",
+        "category_items": "3",
+        "price": 2.55
       }
     ]
   }
