@@ -1,6 +1,14 @@
 {
     "menu_items": [
       {
+        "id": 71,
+        "short_name": "B1",
+        "name": "B1",
+        "category_name": "B1",
+        "category_items": "3",
+        "price": 2.55
+      },
+      {
         "id": 711,
         "short_name": "B11",
         "name": "B11",
